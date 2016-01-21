@@ -10,6 +10,8 @@ output: html_document
 # Null model that contains only spatial and temporal random effects 
 ==================================================================================
 
+# practice
+
 ## working directory & libraries
 ```{r working directory & libraries, warning=FALSE, message=FALSE}
 setwd("G:/Clemson/Research/Projects/bkt working group/sampling design/analysis/sim 01")
